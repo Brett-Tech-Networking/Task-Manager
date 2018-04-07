@@ -1,0 +1,15 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Task Manager\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Task Manager\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Task Manager\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Task Manager\Task Manager\bin\Debug\Ubuntu Theme.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Task Manager\Task Manager\obj\Debug\Task Manager.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Task Manager\Task Manager\obj\Debug\Task_Manager.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Task Manager\Task Manager\obj\Debug\Task_Manager.New_Task.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Task Manager\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Task Manager\Task Manager\obj\Debug\Task Manager.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Task Manager\Task Manager\obj\Debug\Task Manager.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Task Manager\Task Manager\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Task Manager\Task Manager\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Task Manager\Task Manager\bin\Debug\MetroFramework.Fonts.dll
